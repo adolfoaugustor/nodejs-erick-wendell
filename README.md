@@ -4,13 +4,13 @@
 
 ex: ```node 02-nodejs/index.js```
 
-- Se necessitar execultar comando para instalar pacotes.
+## Se necessitar execultar comando para instalar pacotes.
 ```npm install```
 
-- [x] Criando projetos.
-- [x] Trabalhando Async / Await.
-- [x] uso de API do STAR WARS (https://swapi.py4e.com/)
-- [x] Testes de execução com mocha.
+Criando projetos <br>
+Trabalhando Async / Await <br>
+Uso de API do STAR WARS (https://swapi.py4e.com/) <br>
+Testes de execução com mocha <br> 
 
 <br>
 
