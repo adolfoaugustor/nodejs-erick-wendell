@@ -7,6 +7,7 @@ ex: ```node 02-nodejs/index.js```
 ## Se necessitar execultar comando para instalar pacotes.
 ```npm install```
 
+## Detalhes
 Criando projetos <br>
 Trabalhando Async / Await <br>
 Uso de API do STAR WARS (https://swapi.py4e.com/) <br>
