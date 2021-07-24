@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  },
+  "dependencies": {
+    "deep-strict-equal": "^0.2.0",
+    "nock": "^13.1.1"
+  }
+}
